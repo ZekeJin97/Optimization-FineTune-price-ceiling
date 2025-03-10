@@ -16,12 +16,3 @@ Combined optimization:
 
 Integrates the best thresholds and multipliers discovered above.
 Proposes a comprehensive, optimized approach combining all metrics.
-Results Summary
-Levels	Best Reliability Threshold	Best Multiplier (Final Ceiling)	Best Multiplier (Upper Bound)	Precision	Recall	F1 Score
-40000	0.262438	2.7	1.8	1.000000	0.3301	0.4964
-20000	0.262438	2.3	1.4	0.985075	0.4099	0.5789
-30000	0.295948	2.8	1.3	1.000000	0.4000	0.5714
-80000	0.295948	2.8	2.6	1.000000	0.2681	0.4229
-60000	0.262438	2.9	1.0	1.000000	0.3750	0.5455
-50000	0.295948	1.7	1.2	1.000000	0.1944	0.3256
-Overall	0.262438	2.9	2.6	0.997959	0.3521	0.5205
